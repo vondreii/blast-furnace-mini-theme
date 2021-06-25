@@ -6,9 +6,9 @@ In order to make it easier to follow, we created instructions that runs live at 
 
 When you follow to the end of the tutorial, you yourself would have created your own hugo app, which should look identical to the final example: https://blast-furnace-hugo-example.netlify.app/
 
+![Alt Text](static/images/preview.PNG)
+
 This Github is the code for the example site. 
-
-
 
 ## Blast Furnace 
 
