@@ -1,4 +1,4 @@
-# mini-theme-hugo
+# blast-furnace-mini-theme
 
 [Sora](https://www.sorakhan.com/) and I presented at two meetups (Blast Furnace and Newcastle Coders Group) where we ran a tutorial on how to rapidly build a website using Hugo, and how to host that website with Github and Netlify.
 
@@ -8,7 +8,7 @@ When you follow to the end of the tutorial, you yourself would have created your
 
 This Github is the code for the example site. 
 
-![Alt Text](static/images/preview.PNG)
+
 
 ## Blast Furnace 
 
